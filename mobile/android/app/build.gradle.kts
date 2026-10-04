@@ -34,7 +34,7 @@ android {
         applicationId = "com.rebexa.reportas"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
-        minSdk = 23 // requerido por firebase_auth
+        minSdk = 24 // Play exige 24+; firebase_auth requiere 23+
         targetSdk = 36
         versionCode = flutter.versionCode
         versionName = flutter.versionName
