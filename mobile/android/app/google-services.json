@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383383263333",
+    "project_id": "rebexa-ba2b7",
+    "storage_bucket": "rebexa-ba2b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383383263333:android:5edc7594b4bfe13d068e8c",
+        "android_client_info": {
+          "package_name": "com.rebexa.reportas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsBxj6XkfBKx2I12R22tid9Cmuyqd0yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

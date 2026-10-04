@@ -1,0 +1,16 @@
+# Solo se versionan mobile/ y backend_fresh/. Todo lo demás de la carpeta queda fuera.
+/*
+!/.gitignore
+!/mobile/
+!/backend_fresh/
+
+# Secretos: nunca al repo, aunque estén dentro de mobile/ o backend_fresh/
+.env
+.env.*
+*.jks
+*.keystore
+key.properties
+*adminsdk*.json
+*service-account*.json
+
+mobile/deploy_iis*.html
