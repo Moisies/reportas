@@ -14,3 +14,4 @@ key.properties
 *service-account*.json
 
 mobile/deploy_iis*.html
+mobile/clonar_emulador_artifact.html
