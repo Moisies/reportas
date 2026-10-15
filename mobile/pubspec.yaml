@@ -35,7 +35,7 @@ dependencies:
   device_info_plus: ^10.1.2
 
   # Utils
-  intl: ^0.19.0
+  intl: ^0.20.3
 
   # Permissions
   permission_handler: ^11.3.1
